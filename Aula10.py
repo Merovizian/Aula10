@@ -10,3 +10,4 @@ print("Fim!")
 
 ## Maneira rápida:
 print('Carro Novo' if tempo <=3 else 'Carro Velho')
+

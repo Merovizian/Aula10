@@ -20,12 +20,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1buPi7tzjY7xPHqOdpwNvv4lObA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula08" />
@@ -140,10 +143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589485509400</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Versão do PC 14/05 16:50">
+      <created>1589485567014</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589485567014</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Versão do PC 14/05 15:10" />
     <MESSAGE value="Versão do PC 14/05 15:18" />
     <MESSAGE value="Versão do PC 14/05 15:45" />
@@ -160,10 +171,10 @@
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="517" y="166" width="345" height="614" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.27.1400.873@0.27.1400.873" timestamp="1589480478307" />
-    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589485509299">
+    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589485566920">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589485509299" />
+    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589485566920" />
     <state x="93" y="135" width="1200" height="673" key="DiffContextDialog" timestamp="1589485488002">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
@@ -192,10 +203,10 @@
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="189" y="98" width="1022" height="737" key="SettingsEditor/0.27.1400.873@0.27.1400.873" timestamp="1589482324214" />
-    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589485514861">
+    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589485572478">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1400.873@0.27.1400.873" timestamp="1589485514861" />
+    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1400.873@0.27.1400.873" timestamp="1589485572478" />
     <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589485503408">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
