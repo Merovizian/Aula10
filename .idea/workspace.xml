@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d448e52-2d4e-482c-b2ed-5daf4b95140c" name="Default Changelist" comment="Versão do PC 14/05 15:10">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d448e52-2d4e-482c-b2ed-5daf4b95140c" name="Default Changelist" comment="Versão do PC 14/05 15:18">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1buPi7tzjY7xPHqOdpwNvv4lObA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,22 +83,38 @@
       <option name="project" value="LOCAL" />
       <updated>1589479929623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Versão do PC 14/05 15:18">
+      <created>1589480318605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589480318605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versão do PC 14/05 15:10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versão do PC 14/05 15:10" />
+    <MESSAGE value="Versão do PC 14/05 15:18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versão do PC 14/05 15:18" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="238" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589480207359">
+    <state x="498" y="167" width="393" height="600" key="#Menus_and_Toolbars" timestamp="1589480479129">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="238" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589480207359" />
-    <state x="100" y="127" width="1200" height="673" key="DiffContextDialog" timestamp="1589480289642">
+    <state x="498" y="167" width="393" height="600" key="#Menus_and_Toolbars/0.27.1400.873@0.27.1400.873" timestamp="1589480479129" />
+    <state x="517" y="166" width="345" height="614" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1589480478307">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="100" y="127" width="1200" height="673" key="DiffContextDialog/0.27.1400.873@0.27.1400.873" timestamp="1589480289642" />
+    <state x="517" y="166" width="345" height="614" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.27.1400.873@0.27.1400.873" timestamp="1589480478307" />
+    <state x="238" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589480334212">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="238" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589480334212" />
+    <state x="93" y="135" width="1200" height="673" key="DiffContextDialog" timestamp="1589481864481">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="93" y="135" width="1200" height="673" key="DiffContextDialog/0.27.1400.873@0.27.1400.873" timestamp="1589481864481" />
     <state width="1377" height="216" key="GridCell.Tab.0.bottom" timestamp="1589479964000">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
@@ -121,9 +135,9 @@
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="189" y="98" width="1022" height="737" key="SettingsEditor/0.27.1400.873@0.27.1400.873" timestamp="1589480289264" />
-    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589480210102">
+    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589481864464">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1400.873@0.27.1400.873" timestamp="1589480210102" />
+    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1400.873@0.27.1400.873" timestamp="1589481864464" />
   </component>
 </project>
