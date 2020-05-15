@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d448e52-2d4e-482c-b2ed-5daf4b95140c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula08" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Desafio030">
+  <component name="RunManager" selected="Python.Desafio029">
     <configuration name="Aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aula10" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio030" />
         <item itemvalue="Python.Desafio029" />
+        <item itemvalue="Python.Desafio030" />
         <item itemvalue="Python.Desafio028" />
         <item itemvalue="Python.Aula10" />
       </list>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589488410754</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Desafio 30 final">
+      <created>1589502839693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589502839693</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +256,8 @@
     <MESSAGE value="Versão do PC 14/05 16:50" />
     <MESSAGE value="Versão de aula final" />
     <MESSAGE value="Desafio 29 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 29 final" />
+    <MESSAGE value="Desafio 30 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 30 final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="498" y="167" width="393" height="600" key="#Menus_and_Toolbars" timestamp="1589480479129">
@@ -265,10 +272,10 @@
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="517" y="166" width="345" height="614" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.27.1400.873@0.27.1400.873" timestamp="1589480478307" />
-    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589488410677">
+    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1589502839509">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589488410677" />
+    <state x="234" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1589502839509" />
     <state x="93" y="135" width="1200" height="673" key="DiffContextDialog" timestamp="1589486123958">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
@@ -277,34 +284,34 @@
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="483" y="221" width="424" height="491" key="FileChooserDialogImpl/0.27.1400.873@0.27.1400.873" timestamp="1589484536073" />
-    <state width="1377" height="216" key="GridCell.Tab.0.bottom" timestamp="1589502820618">
+    <state width="1377" height="216" key="GridCell.Tab.0.bottom" timestamp="1589502873913">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state width="1377" height="216" key="GridCell.Tab.0.bottom/0.27.1400.873@0.27.1400.873" timestamp="1589502820618" />
-    <state width="1377" height="216" key="GridCell.Tab.0.center" timestamp="1589502820618">
+    <state width="1377" height="216" key="GridCell.Tab.0.bottom/0.27.1400.873@0.27.1400.873" timestamp="1589502873913" />
+    <state width="1377" height="216" key="GridCell.Tab.0.center" timestamp="1589502873912">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state width="1377" height="216" key="GridCell.Tab.0.center/0.27.1400.873@0.27.1400.873" timestamp="1589502820618" />
-    <state width="1377" height="216" key="GridCell.Tab.0.left" timestamp="1589502820617">
+    <state width="1377" height="216" key="GridCell.Tab.0.center/0.27.1400.873@0.27.1400.873" timestamp="1589502873912" />
+    <state width="1377" height="216" key="GridCell.Tab.0.left" timestamp="1589502873912">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state width="1377" height="216" key="GridCell.Tab.0.left/0.27.1400.873@0.27.1400.873" timestamp="1589502820617" />
-    <state width="1377" height="216" key="GridCell.Tab.0.right" timestamp="1589502820618">
+    <state width="1377" height="216" key="GridCell.Tab.0.left/0.27.1400.873@0.27.1400.873" timestamp="1589502873912" />
+    <state width="1377" height="216" key="GridCell.Tab.0.right" timestamp="1589502873913">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state width="1377" height="216" key="GridCell.Tab.0.right/0.27.1400.873@0.27.1400.873" timestamp="1589502820618" />
+    <state width="1377" height="216" key="GridCell.Tab.0.right/0.27.1400.873@0.27.1400.873" timestamp="1589502873913" />
     <state x="189" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1589482324214">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
     <state x="189" y="98" width="1022" height="737" key="SettingsEditor/0.27.1400.873@0.27.1400.873" timestamp="1589482324214" />
-    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589488414094">
+    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589502842290">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1400.873@0.27.1400.873" timestamp="1589488414094" />
-    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589487436518">
+    <state x="317" y="208" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1400.873@0.27.1400.873" timestamp="1589502842290" />
+    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589503004341">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
-    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1400.873@0.27.1400.873" timestamp="1589487436518" />
+    <state x="471" y="378" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1400.873@0.27.1400.873" timestamp="1589503004341" />
     <state x="363" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1589488056581">
       <screen x="0" y="27" width="1400" height="873" />
     </state>
