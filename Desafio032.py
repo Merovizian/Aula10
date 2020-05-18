@@ -1,12 +1,7 @@
-print(f"{'*'*10}Desafio 032 - Ano bissexto{'*'*10}")
+print(f"\033[;1m{'*'*10}Desafio 032 - Ano bissexto{'*'*10}\033[0;0m")
 ano = int(input("Informe o ano: "))
-if (ano % 400 == 0):
-    print(f"O ano {ano} é Bissexto")
+if ano % 400 == 0 or ano % 4 == 0 and ano % 100 != 0:
+    print(f"\033[1;34mO ano {ano} é BISSEXTO")
 else:
-    if (ano % 100 == 0):
-        print(f"O ano {ano} não é Bissexto")
-    else:
-        if(ano % 4 == 0):
-            print(f"O ano {ano} é Bissexto")
-        else:
-            print(f"O ano {ano} não é Bissexto")
+    print(f"\033[1;31mO ano {ano} não é BISSEXTO")
+
